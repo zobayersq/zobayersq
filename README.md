@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Zobayer ( @zobayerSQ )
-- 👀 I’m interested in ...
+- 👋 Hi, I’m Zobayer Hasan ( @zobayersq )
+- 👀 I’m interested in Python,Linux,CyberSec
 - 🌱 I’m currently learning django.
 - 💞️ I’m looking to collaborate on django-projects.
-- 📫 How to reach me ...
+- 📫 How to reach me - zobayer@duck.com
 
   
  <img src="https://tryhackme-badges.s3.amazonaws.com/zobayersq.png" alt="TryHackMe">
