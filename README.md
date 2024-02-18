@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on django-projects.
 - 📫 How to reach me ...
  
-![](<script src="https://tryhackme.com/badge/2208187"></script>)
+![](https://tryhackme.com/badge/2208187)
 <!--- ![](https://raw.githubusercontent.com/zobayerSQ/cf-stats/main/output/light_card.svg#gh-dark-mode-only) --->
 ![](https://raw.githubusercontent.com/zobayerSQ/cf-stats/main/output/light_card.svg)
 
