@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Zobayer Hasan ( @zobayersq )
-- 👀 I’m interested in Python,Linux,CyberSec
-- 🌱 I’m currently learning django.
-- 💞️ I’m looking to collaborate on django-projects.
-- 📫 How to reach me - zobayer@solus.quest
+- 👀 I’m interested in Python,Linux,Cyber Security
+
+- 📫 How to reach me - <zobayer@solus.quest>
 
   
  <img src="https://tryhackme-badges.s3.amazonaws.com/zobayersq.png" alt="TryHackMe">
