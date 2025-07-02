@@ -1,11 +1,3 @@
-- 👋 Hi, I’m Zobayer Hasan ( @zobayersq )
-- 👀 I’m interested in Python,Linux,Cyber Security
-
-- 📫 How to reach me - <zobayer@duck.com>
-
-  
- <img src="https://tryhackme-badges.s3.amazonaws.com/zobayersq.png" alt="TryHackMe">
- 
 <h1 align="center">Hi there, I'm Zobayer 👋</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F59E0B&center=true&vCenter=true&width=435&lines=Cybersecurity+Enthusiast;AI+%26+LLM+Researcher;Open+Source+Contributor;Lifelong+Learner" alt="Typing SVG" />
@@ -15,7 +7,7 @@
 
 ### 👨‍💻 About Me
 - 🎓 CSE student passionate about **Cybersecurity**, **AI/LLMs**, and **Open Source**.
-- 🧠 Learning **LLM Fine-Tuning**, **Bioinformatics**, and **Machine Learning**.
+- 🧠 Learning **LLM Fine-Tuning**, **Random Cyber Security Stuffs**, and **Machine Learning**.
 - 🛡️ Experienced in **Pentesting**, **Linux**, **OSINT**, and **Reverse Engineering**.
 - 🌍 Building secure and intelligent systems that matter.
 - ✍️ Writing about tech, security, and research.
@@ -39,13 +31,8 @@
 
 ---
 
-### 🚀 Projects
-
-Here are a few projects I'm proud of:
-
-- 🔒 [**CyberSec Toolkit**](https://github.com/zobayersq) – Handy tools for pentesters and OSINT hunters.  
-- 🌐 [**UITS Cyber Security Club Website**](https://github.com/zobayersq/uitscsc) – Built using Django & Bulma.  
-- 🇧🇩 [**BDTourAI**](https://github.com/zobayersq/bdtourai) – LLM fine-tuned for Bangladeshi tourism guidance.
+### 🚀 Cool Badges
+ <img src="https://tryhackme-badges.s3.amazonaws.com/zobayersq.png" alt="TryHackMe">
 
 > 🧠 *More coming soon — stay tuned!*
 
@@ -54,8 +41,7 @@ Here are a few projects I'm proud of:
 ### 📬 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/zobayersq"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:zobayersq@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:zobayer@duck.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=email&logoColor=white"/></a>
   <a href="https://zobayersq.github.io"><img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
