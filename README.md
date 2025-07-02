@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Zobayer 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F59E0B&center=true&vCenter=true&width=435&lines=Cybersecurity+Enthusiast;AI+%26+LLM+Researcher;Open+Source+Contributor;Lifelong+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F59E0B&center=true&vCenter=true&width=435&lines=Cybersecurity+Enthusiast;AI+%26+LLM+Researcher;BookWorm;Open+Source+Contributor;Lifelong+Learner" alt="Typing SVG" />
 </p>
 
 ---
@@ -8,7 +8,7 @@
 ### 👨‍💻 About Me
 - 🎓 CSE student passionate about **Cybersecurity**, **AI/LLMs**, and **Open Source**.
 - 🧠 Learning **LLM Fine-Tuning**, **Random Cyber Security Stuffs**, and **Machine Learning**.
-- 🛡️ Experienced in **Pentesting**, **Linux**, **OSINT**, and **Reverse Engineering**.
+- 🛡️ Experienced in **Pentesting**, **Linux**, **OSINT**, and **CTF**.
 - 🌍 Building secure and intelligent systems that matter.
 - ✍️ Writing about tech, security, and research.
 
@@ -17,7 +17,7 @@
 ### 🧰 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,linux,bash,git,github,vscode,html,css,js,tailwind,arduino,pytorch,postgres" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,django,linux,bash,c,git,github,html,css,js,pytorch,mysql,sklearn,vscodium,md" alt="Tech Stack" />
 </p>
 
 ---
@@ -49,3 +49,10 @@
 
 > 🧭 *“Stay curious, stay humble, and hack the impossible.”*
 
+
+
+<div align="center">
+  <h3>💖 Thanks for visiting my profile!</h3>
+  <p>Feel free to reach out if you want to collaborate on something amazing! 🚀</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
+</div>
