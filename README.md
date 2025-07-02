@@ -17,7 +17,7 @@
 ### 🧰 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,linux,bash,c,git,github,html,css,js,pytorch,mysql,sklearn,vscodium,md" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,django,linux,bash,c,git,github,html,css,js,mysql,pytorch,sklearn,vscodium,md" alt="Tech Stack" />
 </p>
 
 ---
