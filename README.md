@@ -8,7 +8,7 @@
 ### 👨‍💻 About Me
 - 🎓 CSE student passionate about **Cybersecurity**, **AI/LLMs**, and **Open Source**.
 - 🧠 Learning **LLM Fine-Tuning**, **Random Cyber Security Stuffs**, and **Machine Learning**.
-- 🛡️ Experienced in **Pentesting**, **Linux**, **OSINT**, and **CTF**.
+- 🛡️ Experienced in **Linux**, **OSINT**, and **CTF**.
 - 🌍 Building secure and intelligent systems that matter.
 - ✍️ Writing about tech, security, and research.
 
@@ -20,14 +20,6 @@
   <img src="https://skillicons.dev/icons?i=python,django,linux,bash,c,git,github,html,css,js,mysql,pytorch,sklearn,vscodium,md" alt="Tech Stack" />
 </p>
 
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=zobayersq&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=zobayersq&theme=radical&hide_border=true" />
-</p>
 
 ---
 
@@ -42,7 +34,6 @@
 
 <p align="center">
   <a href="mailto:zobayer@duck.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=email&logoColor=white"/></a>
-  <a href="https://zobayersq.github.io"><img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
 ---
